@@ -1,6 +1,6 @@
 # Shadow-iOS
 
-Shadow-iOS is a website that focuses on bringing Shadow-Desktop to Shadow-Mobile on specifically in this version iOS. Shadow-iOS is made with the design requirements, that it manages to do this without abusing security vulnerabilities (no root, no jailbreak, etc.) and is part of the larger ShadowSecuritySuite, Shadow-iOS allows you to run your favorite Shadow-Desktop tools on Shadow-Mobile to increase overall portability of your setup.
+Shadow-iOS is a website that focuses on bringing Shadow-Desktop to Shadow-Mobile on specifically in this version iOS. Shadow-iOS is made with the design requirements, that it manages to do this without abusing security vulnerabilities (no root, no jailbreak, etc) and is part of the larger ShadowSecuritySuite, Shadow-iOS allows you to run your favorite Shadow-Desktop tools on Shadow-Mobile to increase overall portability of your setup.
 
 ㊙️ "The more silent you are, the more you can silence." ㊙️
 
