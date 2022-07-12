@@ -10,7 +10,9 @@ Shadow-iOS is a website that focuses on bringing Shadow-Desktop to Shadow-Mobile
 
 ```
 https://www.silex.me/
+https://pages.cloudflare.com/
 https://www.gitkraken.com/
+https://code.visualstudio.com/
 ```
 # Requesting a feature
 
