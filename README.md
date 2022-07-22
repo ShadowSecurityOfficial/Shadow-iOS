@@ -10,7 +10,7 @@ Shadow-iOS is a website that focuses on bringing Shadow-Desktop to Shadow-Mobile
 
 ```
 https://www.apple.com/ (Buy iOS Device)
-https://pwnieexpres.com/ (Or instead of following my guide just buy a specialized device)
+https://pwnieexpres.com/ (If you prefer, Instead of following my guide just buy a specialized device.)
 https://www.silex.me/
 https://pages.cloudflare.com/
 https://www.gitkraken.com/
